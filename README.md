@@ -25,7 +25,7 @@ Local application with structured law database that takes plain field worker des
 
 Join the discussion:
 
-[![Matrix](https://img.shields.io/badge/Matrix-%23eco-lawyer-black?logo=matrix)](https://matrix.to/#/#eco-lawyer:matrix.org)
+[![Matrix](https://img.shields.io/badge/Matrix-Chat-black?logo=matrix](https://matrix.to/#/#eco-lawyer:matrix.org)
 
 ## License
 
